@@ -1,3 +1,6 @@
 [submodule "MyFavoriteAuthorsWebAPI"]
 	path = MyFavoriteAuthorsWebAPI
 	url = https://github.com/GR1NYAoff/MyFavoriteAuthorsWebAPI
+[submodule "MyFavoriteAuthorsUI"]
+	path = MyFavoriteAuthorsUI
+	url = https://github.com/GR1NYAoff/MyFavoriteAuthorsUI
